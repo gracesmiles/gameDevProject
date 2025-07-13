@@ -5,3 +5,4 @@ def main():
 	print("Conflicting feature in welcome-feature branch")
 if __name__ == "__main__":
     main()
+	print("Please choose your player.")
